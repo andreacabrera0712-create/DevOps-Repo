@@ -6,7 +6,7 @@ Instalar dependencias:
 pip install -r requirements.txt
 ```
 
-Ejecutar la aplicación:
+Ejecutar la aplicación con Python:
 
 ```bash
 python app.py
